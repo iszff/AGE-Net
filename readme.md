@@ -199,11 +199,13 @@ data_processing_core.py
 
 ## eye-centered gaze
 
-data_processing_mpii**Eye3d**_use_notflip_224.py 主函数
+data_processing_mpii**Eye3d**_use_notflip_224.py
 
-data_processing_core_not_get_lmk.py 核心函数
+data_processing_core_not_get_lmk.py
 
 ## face-centered gaze
 
 data_processing_mpiiFace3d_use_notflip_224.py
+
 data_processing_core_not_get_lmk.py
+
